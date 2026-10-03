@@ -1,0 +1,13 @@
+========================================
+ SMART ENERGY - METER REPORT
+========================================
+Total Pulses            : 0
+Energy Consumption (kWh): 0.000
+Rate per kWh (Rs)       : 8.000
+Estimated Cost (Rs)     : 0.000
+Formula used            : kWh = pulses / 1000
+========================================
+
+(This is a sample file. Run the program and choose
+ option 6 "Save Simple Report" to overwrite it with
+ your real readings.)
